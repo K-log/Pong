@@ -5,4 +5,6 @@ In order to play the game put both the instruction.png and game.py in the same f
 
 The game supports two players and the instructions can be found in-game.
 
-Note: The game is poorly optimized and doesnt have a way to reset it so you must restart the script in order to reset.
+
+
+This is a basic game written in Python using pygame to test some of the functionality of pygame as well as get a feel about how pygame functions.
